@@ -1,6 +1,5 @@
 # 电子工程(Electrical Engineering)
 
-标签（空格分隔）： 电子工程
 
 ---
 
@@ -36,6 +35,7 @@ C语言程序设计 | thenewboston | [The C Programming Language](https://www.amazon.c
 ### <h3 id="what_EE">什么是电子工程</h3>
 - 维基百科：[Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
 - MIT系列视频：[Introduction to Electrical Engineering and Computer Science](https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PLokv8kF5fN46vRTd1KAZuo1NEdtrA7ri6)
+
 ### <h3 id="EE_matphy_basic">电子工程数理基础</h3>
 课程 | 机构 | 参考资源 | 其他资料
 :-- | :--: | :--: | :--
