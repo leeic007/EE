@@ -71,10 +71,10 @@ Matlab | 暂无 | 暂无 | 暂无
 
 ##<h2 id="area_study">领域学习</h2>
 
-- [器件](#device)
+- [器件]
 - [模拟电路](#analog_circuits)
-- [数字电路](#digital_circuits)
-- [信号与系统](#signal_system)
-- [通信与网络](#communication_Networking)
-- [机器人与控制](#module_design) 
-- [实验与项目](#lab_projects)
+- [数字电路]
+- [信号与系统]
+- [通信与网络]
+- [机器人与控制]
+- [实验与项目]
