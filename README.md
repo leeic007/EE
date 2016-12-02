@@ -72,7 +72,7 @@ Matlab | 暂无 | 暂无 | 暂无
 ##<h2 id="area_study">领域学习</h2>
 
 - [器件]
-- [模拟电路](#analog_circuits)
+- [模拟电路](https://github.com/leeic007/Analog_Circuits)
 - [数字电路]
 - [信号与系统]
 - [通信与网络]
