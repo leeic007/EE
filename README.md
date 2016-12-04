@@ -26,7 +26,7 @@ C语言程序设计 | thenewboston | [The C Programming Language](https://www.amazon.c
 复变函数 | 图灵数学 | [复分析：可视化方法](https://item.jd.com/10063608.html) | 暂无
 线性代数 | MIT | [麻省理工公开课：线性代数导论](http://open.163.com/special/opencourse/daishu.html) | [配套教材](http://math.mit.edu/~gs/linearalgebra/)
 微分方程 | MIT | [麻省理工公开课：微分方程](http://open.163.com/special/opencourse/equations.html) | [链接](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)
-
+信号与系统 | MIT | [麻省理工公开课：信号与系统 by 奥本海姆](http://open.163.com/special/opencourse/signals.html) | [书籍](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/ref=sr_1_1?s=books&ie=UTF8&qid=1480857180&sr=1-1&keywords=signals+and+systems&refinements=p_lbr_one_browse-bin%3AAlan+V.+Oppenheim%2Cp_72%3A1250222011)
 
 
 ---
@@ -50,6 +50,7 @@ C语言程序设计 | thenewboston | [The C Programming Language](https://www.amazon.c
 :-- | :--: | :--: | :--
 C语言程序设计 | thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) | [教学视频](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 电路基础 | MIT | [麻省理工开放课程:电路与电子学](http://open.163.com/special/opencourse/circuits.html) | [教材推荐](https://item.jd.com/11508886.html)
+信号与系统 | MIT | [麻省理工公开课：信号与系统 by 奥本海姆](http://open.163.com/special/opencourse/signals.html) | [书籍](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/ref=sr_1_1?s=books&ie=UTF8&qid=1480857180&sr=1-1&keywords=signals+and+systems&refinements=p_lbr_one_browse-bin%3AAlan+V.+Oppenheim%2Cp_72%3A1250222011)
 ### <h3 id="recommended_class">其他推荐课程</h3>
 课程 | 机构 | 参考资源 | 其他资料
 :-- | :--: | :--: | :--
@@ -74,7 +75,7 @@ Matlab | 暂无 | 暂无 | 暂无
 - [器件]
 - [模拟电路](https://github.com/leeic007/Analog_Circuits)
 - [数字电路]
-- [信号与系统]
+- [信号处理]
 - [通信与网络]
 - [机器人与控制]
 - [实验与项目]
